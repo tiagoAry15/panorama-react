@@ -1,0 +1,31 @@
+.Panorama{
+    padding: 0%;
+    margin: 0%;
+    height: 100vh;
+    width: 100vw;
+}
+
+.Panorama h3{
+    background-color: #f88a27;
+    padding: 1%;
+    color: white;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.Panorama p{
+    font-size: 14px;
+}
+
+.lista1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+@media (max-width: 600px) {
+
+    .Panorama{
+    text-align: center;
+}
+
+}

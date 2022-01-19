@@ -1,0 +1,46 @@
+
+.content{
+    font-size: 95%;
+}
+.header{
+
+    background-color: #a6193c;
+    color:white;
+    margin: 8px 0;
+    font-weight: bolder
+    ;
+}
+
+.header p{
+    margin-bottom: 0%;
+}
+
+.elementos .validacao{
+    display: grid;
+    grid-template-columns: 10% 60%;
+    
+
+}
+
+.elementos div .elemento{
+    display: block;
+
+}
+
+.elementos div p{
+    margin-bottom: 0%;
+    
+    
+}
+
+.elementos img{
+    width: 30%;
+    justify-self: center;
+    margin-top: 2px;
+ 
+
+}
+
+.validacao span{
+    font-weight: bolder;
+}

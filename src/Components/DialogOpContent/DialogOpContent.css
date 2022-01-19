@@ -1,0 +1,44 @@
+
+
+.dialogHead{
+    background-color: #f88a27;
+    font-weight: 600;
+    color: white;
+  text-align: center;
+    padding: 1% ;
+    font-size: 24px;
+    white-space: nowrap;
+    margin: 0;
+}
+
+.simpleData{
+    display:grid;
+    justify-items: left;
+    align-items: center;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-columns: 30% 1fr ;
+   
+    
+}
+
+
+
+.simpleData div{
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 1fr;
+    justify-content: space-between;
+    margin: 3px;
+}
+
+.simpleData p{
+    margin-bottom: 0%;
+    text-decoration: solid;
+    font-weight: bolder;
+    
+}
+
+.validation{
+    display: grid;
+    
+}

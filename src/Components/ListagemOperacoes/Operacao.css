@@ -1,0 +1,40 @@
+.ListagemOperacoes{
+    margin: 0 7%;
+}
+
+.row {
+    display: grid;
+    grid-template-columns: 15% 12% 37% repeat(6, 6%);
+    align-items: center;
+    font-size: 0.85em;
+}
+
+.row.cabecalho {
+    background-color: #a6193c;
+    color:white;
+    border: 1px solid rgb(0, 0, 0);
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.row .nome {
+    justify-self: left;
+}
+
+.row span {
+    padding: 5px;
+    text-align: center;
+    justify-self: center;
+    align-items: center;
+}
+
+.row img {
+    height: 18px;
+    width: 18px;
+}
+
+.row Button {
+    border-radius: 50%;
+    border-style: none;
+    padding: unset;
+}

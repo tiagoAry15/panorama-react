@@ -1,0 +1,28 @@
+.OperacaoTipo{
+  
+   display: grid;
+
+   grid-template-columns: 10% 10% 1fr;
+  align-items: center;
+   font-size: 14px;
+  
+  
+}
+
+
+.OperacaoTipo p{
+  margin: 0%;
+  white-space: nowrap;
+  text-align: left;
+}
+
+.OperacaoTipo .quant{
+  text-align: end;
+}
+
+.OperacaoTipo img{
+  
+  width: 12px;
+  height: 12px;
+  justify-self: center;
+}

@@ -1,0 +1,612 @@
+
+ [
+        {
+            "codigoOperacao": "1 102 C100056001 001",
+            "codigoCliente": "1699620",
+            "nomeCliente": "MARIA CIPRIANA DE SOUSA",
+            "resultadoValidacao":[
+                {
+                "section":"GED",
+                "validacao": true,
+                "elementos":[
+                    { 
+                    "validacao":true,
+                    "titulo": "Instrumento de crédito sem ressalvas",
+                    "subtitulo":""
+                }
+                ]
+                
+                },
+                {
+                    "section":"S255",
+                    "validacao": true,
+                    "elementos":[
+                        { 
+                        "validacao":true,
+                        "titulo": "RESTRIÇÕES INTERNAS",
+                        "subtitulo":"Não consta ocorrência para o documento consultado"
+                    },
+                    { 
+                        "validacao":true,
+                        "titulo": "CADIN",
+                        "subtitulo":"Não consta ocorrência para o documento consultado"
+                    },
+                    { 
+                        "validacao":true,
+                        "titulo": "RECEITA FEDERAL",
+                        "subtitulo": "Situação Cadastral Regular"
+                    }
+                    ]
+                    },
+                    {
+                        "section":"CONTA ATIVA",
+                        "validacao": true,
+                        "elementos":[
+                            { 
+                            "validacao":true,
+                            "titulo": "O cliente possui conta ativa",
+                            "subtitulo":""
+                        }
+                        ]
+                        
+                        },
+                        {
+                            "section":"REFERÊNCIA BACEN",
+                            "validacao": true,
+                            "elementos":[
+                                { 
+                                "validacao":true,
+                                "titulo": "A operação possui referência BACEN válida",
+                                "subtitulo":""
+                            }
+                            ]
+                            
+                            },
+                            {
+                                "section":"DOTAÇÃO",
+                                "validacao": true,
+                                "elementos":[
+                                    { 
+                                    "validacao":true,
+                                    "titulo": "A operação possui dotação suficiente/concedida",
+                                    "subtitulo":""
+                                }
+                                ]
+                                
+                                }
+            ]
+        },
+        {
+            "codigoOperacao": "1 102 C100044501 001",
+            "codigoCliente": "11933677",
+            "nomeCliente": "JOSEFA MARIA DA SILVA",
+            "resultadoValidacao":[
+                {
+                "section":"GED",
+                "validacao": true,
+                "elementos":[
+                    { 
+                    "validacao":true,
+                    "titulo": "Instrumento de crédito sem ressalvas",
+                    "subtitulo":""
+                }
+                ]
+                
+                },
+                {
+                    "section":"S255",
+                    "validacao": true,
+                    "elementos":[
+                        { 
+                        "validacao":true,
+                        "titulo": "RESTRIÇÕES INTERNAS",
+                        "subtitulo":"Não consta ocorrência para o documento consultado"
+                    },
+                    { 
+                        "validacao":true,
+                        "titulo": "CADIN",
+                        "subtitulo":"Não consta ocorrência para o documento consultado"
+                    },
+                    { 
+                        "validacao":true,
+                        "titulo": "RECEITA FEDERAL",
+                        "subtitulo": "Situação Cadastral Regular"
+                    }
+                    ]
+                    },
+                    {
+                        "section":"CONTA ATIVA",
+                        "validacao": false,
+                        "elementos":[
+                            { 
+                            "validacao":false,
+                            "titulo": "O cliente não possui conta ativa",
+                            "subtitulo":""
+                        }
+                        ]
+                        
+                        },
+                        {
+                            "section":"REFERÊNCIA BACEN",
+                            "validacao": true,
+                            "elementos":[
+                                { 
+                                "validacao":false,
+                                "titulo": "Condição ainda não verificada",
+                                "subtitulo":""
+                            }
+                            ]
+                            
+                            },
+                            {
+                                "section":"DOTAÇÃO",
+                                "validacao": true,
+                                "elementos":[
+                                    { 
+                                    "validacao":false,
+                                    "titulo": "Condição ainda não verificada",
+                                    "subtitulo":""
+                                }
+                                ]
+                                
+                                }
+            ]
+        },
+        {
+            "codigoOperacao": "1 102 C100316201 001",
+            "codigoCliente": "2918046",
+            "nomeCliente": "MARIA SOCORRO JUNQUEIRA",
+            "resultadoValidacao":[
+                {
+                "section":"GED",
+                "validacao": true,
+                "elementos":[
+                    { 
+                    "validacao":true,
+                    "titulo": "Instrumento de crédito sem ressalvas",
+                    "subtitulo":""
+                }
+                ]
+                
+                },
+                {
+                    "section":"S255",
+                    "validacao": true,
+                    "elementos":[
+                        { 
+                        "validacao":true,
+                        "titulo": "RESTRIÇÕES INTERNAS",
+                        "subtitulo":"Não consta ocorrência para o documento consultado"
+                    },
+                    { 
+                        "validacao":true,
+                        "titulo": "CADIN",
+                        "subtitulo":"Não consta ocorrência para o documento consultado"
+                    },
+                    { 
+                        "validacao":true,
+                        "titulo": "RECEITA FEDERAL",
+                        "subtitulo": "Situação Cadastral Regular"
+                    }
+                    ]
+                    },
+                    {
+                        "section":"CONTA ATIVA",
+                        "validacao": false,
+                        "elementos":[
+                            { 
+                            "validacao":false,
+                            "titulo": "O cliente não possui conta ativa",
+                            "subtitulo":""
+                        }
+                        ]
+                        
+                        },
+                        {
+                            "section":"REFERÊNCIA BACEN",
+                            "validacao": true,
+                            "elementos":[
+                                { 
+                                "validacao":true,
+                                "titulo": "A operação possui referência BACEN válida",
+                                "subtitulo":""
+                            }
+                            ]
+                            
+                            },
+                            {
+                                "section":"DOTAÇÃO",
+                                "validacao": true,
+                                "elementos":[
+                                    { 
+                                    "validacao":true,
+                                    "titulo": "A operação possui dotação suficiente/concedida",
+                                    "subtitulo":""
+                                }
+                                ]
+                                
+                                }
+            ]
+        },
+        {
+            "codigoOperacao": "1 102 C100049201 001",
+            "codigoCliente": "11856143",
+            "nomeCliente": "PERPETUO DE MACEDO COSTA",
+            "resultadoValidacao":[
+                {
+                "section":"GED",
+                "validacao": false,
+                "elementos":[
+                    { 
+                    "validacao":false,
+                    "titulo": "Instrumento de crédito com ressalvas",
+                    "subtitulo":"AUSÊNCIA DE ASSINATURAS"
+                }
+                ]
+                
+                },
+                {
+                    "section":"S255",
+                    "validacao": false,
+                    "elementos":[
+                        { 
+                        "validacao":false,
+                        "titulo": "RESTRIÇÕES INTERNAS",
+                        "subtitulo":"RESTRIÇÃO: PENDENTE DE TARIFA MOTIVO: Tarifa não Paga"
+                    },
+                    { 
+                        "validacao":false,
+                        "titulo": "CADIN",
+                        "subtitulo":"DATA DO PROCESSAMENTO: 08/02/2019 NOME DO CREDOR: BANCO DO NORDESTE"
+                    },
+                    { 
+                        "validacao":false,
+                        "titulo": "RECEITA FEDERAL",
+                        "subtitulo": "SITUAÇÃO CADASTRAL: Suspensa"
+                    }
+                    ]
+                    },
+                    {
+                        "section":"CONTA ATIVA",
+                        "validacao": true,
+                        "elementos":[
+                            { 
+                            "validacao":true,
+                            "titulo": "O cliente possui conta ativa",
+                            "subtitulo":""
+                        }
+                        ]
+                        
+                        },
+                        {
+                            "section":"REFERÊNCIA BACEN",
+                            "validacao": true,
+                            "elementos":[
+                                { 
+                                "validacao":true,
+                                "titulo": "A operação possui referência BACEN válida",
+                                "subtitulo":""
+                            }
+                            ]
+                            
+                            },
+                            {
+                                "section":"DOTAÇÃO",
+                                "validacao":false,
+                                "elementos":[
+                                    { 
+                                    "validacao":false,
+                                    "titulo": "A operação não possui dotação suficiente/concedida",
+                                    "subtitulo":""
+                                }
+                                ]
+                                
+                                }
+            ]
+        },
+        {
+            "codigoOperacao": "1 102 C100089501 001",
+            "codigoCliente": "1463552",
+            "nomeCliente": "RAFAEL DE CASTRO COSTA",
+            "resultadoValidacao":[
+                {
+                "section":"GED",
+                "validacao": true,
+                "elementos":[
+                    { 
+                    "validacao":true,
+                    "titulo": "Instrumento de crédito sem ressalvas",
+                    "subtitulo":""
+                }
+                ]
+                
+                },
+                {
+                    "section":"S255",
+                    "validacao": false,
+                    "elementos":[
+                        { 
+                        "validacao":false,
+                        "titulo": "RESTRIÇÕES INTERNAS",
+                        "subtitulo":"RESTRIÇÃO: PENDENTE DE TARIFA MOTIVO: Tarifa não Paga"
+                    },
+                    { 
+                        "validacao":false,
+                        "titulo": "CADIN",
+                        "subtitulo":"DATA DO PROCESSAMENTO: 08/02/2019 NOME DO CREDOR: BANCO DO NORDESTE"
+                    },
+                    { 
+                        "validacao":false,
+                        "titulo": "RECEITA FEDERAL",
+                        "subtitulo": "SITUAÇÃO CADASTRAL: Suspensa"
+                    }
+                    ]
+                    },
+                    {
+                        "section":"CONTA ATIVA",
+                        "validacao": true,
+                        "elementos":[
+                            { 
+                            "validacao":true,
+                            "titulo": "O cliente possui conta ativa",
+                            "subtitulo":""
+                        }
+                        ]
+                        
+                        },
+                        {
+                            "section":"REFERÊNCIA BACEN",
+                            "validacao": true,
+                            "elementos":[
+                                { 
+                                "validacao":true,
+                                "titulo": "A operação possui referência BACEN válida",
+                                "subtitulo":""
+                            }
+                            ]
+                            
+                            },
+                            {
+                                "section":"DOTAÇÃO",
+                                "validacao": true,
+                                "elementos":[
+                                    { 
+                                    "validacao":true,
+                                    "titulo": "A operação possui dotação suficiente/concedida",
+                                    "subtitulo":""
+                                }
+                                ]
+                                
+                                }
+            ]
+        },
+        {
+            "codigoOperacao": "1 102 C100041501 001",
+            "codigoCliente": "8896971",
+            "nomeCliente": "RODRIGO FERREIRA DE ALMEIDA",
+            "resultadoValidacao":[
+                {
+                    "section":"GED",
+                    "validacao": false,
+                    "elementos":[
+                        { 
+                        "validacao":false,
+                        "titulo": "Instrumento de crédito com ressalvas",
+                        "subtitulo":"AUSÊNCIA DE ASSINATURAS"
+                    }
+                    ]
+                    
+                    },
+                    {
+                        "section":"S255",
+                        "validacao": false,
+                        "elementos":[
+                            { 
+                            "validacao":false,
+                            "titulo": "RESTRIÇÕES INTERNAS",
+                            "subtitulo":"RESTRIÇÃO: PENDENTE DE TARIFA MOTIVO: Tarifa não Paga"
+                        },
+                        { 
+                            "validacao":false,
+                            "titulo": "CADIN",
+                            "subtitulo":"DATA DO PROCESSAMENTO: 08/02/2019 NOME DO CREDOR: BANCO DO NORDESTE"
+                        },
+                        { 
+                            "validacao":false,
+                            "titulo": "RECEITA FEDERAL",
+                            "subtitulo": "SITUAÇÃO CADASTRAL: Suspensa"
+                        }
+                        ]
+                        },
+                    {
+                        "section":"CONTA ATIVA",
+                        "validacao": false,
+                        "elementos":[
+                            { 
+                            "validacao":false,
+                            "titulo": "O cliente não possui conta ativa",
+                            "subtitulo":""
+                        }
+                        ]
+                        
+                        },
+                        {
+                            "section":"REFERÊNCIA BACEN",
+                            "validacao": true,
+                            "elementos":[
+                                { 
+                                "validacao":true,
+                                "titulo": "A operação possui referência BACEN válida",
+                                "subtitulo":""
+                            }
+                            ]
+                            
+                            },
+                            {
+                                "section":"DOTAÇÃO",
+                                "validacao": false,
+                                "elementos":[
+                                    { 
+                                    "validacao":false,
+                                    "titulo": "A operação não possui dotação suficiente/concedida",
+                                    "subtitulo":""
+                                }
+                                ]
+                                
+                                }
+            ]
+        },
+        {
+            "codigoOperacao": "1 102 C100038701 001", 
+            "codigoCliente": "4169131",
+            "nomeCliente": "JOAO DA SILVA FILHO",
+            "resultadoValidacao":[
+                {
+                "section":"GED",
+                "validacao": true,
+                "elementos":[
+                    { 
+                    "validacao":true,
+                    "titulo": "Instrumento de crédito sem ressalvas",
+                    "subtitulo":""
+                }
+                ]
+                
+                },
+                {
+                    "section":"S255",
+                    "validacao": true,
+                    "elementos":[
+                        { 
+                        "validacao":true,
+                        "titulo": "RESTRIÇÕES INTERNAS",
+                        "subtitulo":"Não consta ocorrência para o documento consultado"
+                    },
+                    { 
+                        "validacao":true,
+                        "titulo": "CADIN",
+                        "subtitulo":"Não consta ocorrência para o documento consultado"
+                    },
+                    { 
+                        "validacao":true,
+                        "titulo": "RECEITA FEDERAL",
+                        "subtitulo": "Situação Cadastral Regular"
+                    }
+                    ]
+                    },
+                    {
+                        "section":"CONTA ATIVA",
+                        "validacao": true,
+                        "elementos":[
+                            { 
+                            "validacao":true,
+                            "titulo": "O cliente possui conta ativa",
+                            "subtitulo":""
+                        }
+                        ]
+                        
+                        },
+                        {
+                            "section":"REFERÊNCIA BACEN",
+                            "validacao": true,
+                            "elementos":[
+                                { 
+                                "validacao":true,
+                                "titulo": "A operação possui referência BACEN válida",
+                                "subtitulo":""
+                            }
+                            ]
+                            
+                            },
+                            {
+                                "section":"DOTAÇÃO",
+                                "validacao": true,
+                                "elementos":[
+                                    { 
+                                    "validacao":true,
+                                    "titulo": "A operação possui dotação suficiente/concedida",
+                                    "subtitulo":""
+                                }
+                                ]
+                                
+                                }
+            ]
+        },
+        {
+            "codigoOperacao": "1 102 C100068101 001",
+            "codigoCliente": "8425707",
+            "nomeCliente": "JUNIOR DE ALMEIDA PEREIRA",
+            "resultadoValidacao":[
+                {
+                    "section":"GED",
+                    "validacao": false,
+                    "elementos":[
+                        { 
+                        "validacao":false,
+                        "titulo": "Instrumento de crédito com ressalvas",
+                        "subtitulo":"AUSÊNCIA DE ASSINATURAS"
+                    }
+                    ]
+                    
+                    },
+                    {
+                        "section":"S255",
+                        "validacao": false,
+                        "elementos":[
+                            { 
+                            "validacao":false,
+                            "titulo": "RESTRIÇÕES INTERNAS",
+                            "subtitulo":"RESTRIÇÃO: PENDENTE DE TARIFA MOTIVO: Tarifa não Paga"
+                        },
+                        { 
+                            "validacao":false,
+                            "titulo": "CADIN",
+                            "subtitulo":"DATA DO PROCESSAMENTO: 08/02/2019 NOME DO CREDOR: BANCO DO NORDESTE"
+                        },
+                        { 
+                            "validacao":false,
+                            "titulo": "RECEITA FEDERAL",
+                            "subtitulo": "SITUAÇÃO CADASTRAL: Suspensa"
+                        }
+                        ]
+                        },
+                    {
+                        "section":"CONTA ATIVA",
+                        "validacao": false,
+                        "elementos":[
+                            { 
+                            "validacao":false,
+                            "titulo": "O cliente não possui conta ativa",
+                            "subtitulo":""
+                        }
+                        ]
+                        
+                        },
+                        {
+                            "section":"REFERÊNCIA BACEN",
+                            "validacao": true,
+                            "elementos":[
+                                { 
+                                "validacao":true,
+                                "titulo": "A operação possui referência BACEN válida",
+                                "subtitulo":""
+                            }
+                            ]
+                            
+                            },
+                            {
+                                "section":"DOTAÇÃO",
+                                "validacao": false,
+                                "elementos":[
+                                    { 
+                                    "validacao":false,
+                                    "titulo": "A operação não possui dotação suficiente/concedida",
+                                    "subtitulo":""
+                                }
+                                ]
+                                
+                                }
+            ]
+        }
+    ]
+    
